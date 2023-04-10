@@ -1,1 +1,1 @@
-# Applicant_of_INRTU
+Repository for VKR web-version of game "INRTU Applicant"
